@@ -1,4 +1,4 @@
-### Briefing Sistema de Alocamento:
+# Briefing Sistema de Alocamento:
 
 ## Dores identificadas 
     - Dificuldade de Acesso às Informações: Os alunos e professores podem enfrentar dificuldades para acessar informações sobre seus horários de aulas e alocação de salas.
@@ -6,18 +6,18 @@
  -Desenvolver um sistema de agendamento de aulas que permita coordenadores, professores e alunos acessar informações sobre horários de aulas, alocação de salas e laboratórios, e detalhes das disciplinas e cursos.
 
 ## Atores do Sistema:
-  # Professor:
+  ### Professor:
       - Funções: Visualizar seus próprios horários e salas alocadas. 
       - Faz login no sistema.  
-  # Alunos:
+  ### Alunos:
       - Funções: 
       - Cadastrar-se no sistema.
       - Visualizar horários de aulas relacionados ao seu curso.
   
-  # Restrições: 
+  ### Restrições: 
           - Não podem editar informações, apenas visualizar (tanto aluno, quanto professores).
 
-  # Coordenadores:
+  ### Coordenadores:
         - Alocar disciplinas a professores, salas e laboratórios.
         - Visualizar qual professor está alocado em uma sala ou laboratório.
         - Cadastrar professores e cursos no sistema.
