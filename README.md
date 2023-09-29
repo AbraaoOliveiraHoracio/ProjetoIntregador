@@ -64,5 +64,7 @@
   - Cada disciplina pode alocar 1 sala e 1 laboratório.
   - No sistema não será possível reservar uma sala/laboratório quando estiver ocupado.
   - Juntar apenas disciplina com sala. 
-    
+
+## Protótipo de nosso projeto
+    - https://www.figma.com/file/fZJ5PUqW5jFBTOpXC2aEOo/Trabalho-de-PI?type=design&node-id=0%3A1&mode=design&t=HoMrfE9NK7ys8yTh-1
 ####
