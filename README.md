@@ -22,6 +22,17 @@
         - Visualizar qual professor está alocado em uma sala ou laboratório.
         - Cadastrar professores e cursos no sistema.
 
+
+## Caso De Uso
+
+![image](https://github.com/AbraaoOliveiraHoracio/ProjetoIntregador/assets/127244271/fa01909b-3307-49f2-affb-485d4df0e701)
+
+
+ ## End Points
+
+![image](https://github.com/AbraaoOliveiraHoracio/ProjetoIntregador/assets/127244271/541f6454-5e3b-46c6-bff9-80ea97f61834)
+
+      
 ## Principais funções do sistema:
 
 1. **Alocação de Disciplinas:**
@@ -46,7 +57,7 @@
    - Permite que os alunos escolham uma disciplina específica e visualiza horários relacionados a ela.
 
 7. **Impressão de Horários:**
-   - Oferece a opção de imprimir horários para referência física.
+   - Oferece a opção de imprimir horários para referência física.  
 
 ## Observações: 
 
