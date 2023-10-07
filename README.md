@@ -32,6 +32,11 @@
 
 ![image](https://github.com/AbraaoOliveiraHoracio/ProjetoIntregador/assets/127244271/541f6454-5e3b-46c6-bff9-80ea97f61834)
 
+## Modelo Conceitual
+
+![image](https://github.com/AbraaoOliveiraHoracio/ProjetoIntregador/assets/127892758/cb979226-e3ea-48a1-a16b-28c1ff3e9e81)
+
+
       
 ## Principais funções do sistema:
 
