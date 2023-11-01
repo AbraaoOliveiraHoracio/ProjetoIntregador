@@ -39,7 +39,8 @@
 
  ## Diagrama UML
 
- ![image](https://github.com/AbraaoOliveiraHoracio/ProjetoIntregador/assets/127244271/17b6dbf5-bc22-4982-88e6-5c7e83d41ff0)
+ ![image](https://github.com/AbraaoOliveiraHoracio/ProjetoIntregador/assets/127244271/03d5da85-97c4-42b2-b62c-4a23ef4c61f6)
+
 
 
 ## Principais funções do sistema:
