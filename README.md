@@ -37,7 +37,11 @@
 ![image](https://github.com/AbraaoOliveiraHoracio/ProjetoIntregador/assets/127892758/cb979226-e3ea-48a1-a16b-28c1ff3e9e81)
 
 
-      
+ ## Diagrama UML
+
+ ![image](https://github.com/AbraaoOliveiraHoracio/ProjetoIntregador/assets/127244271/17b6dbf5-bc22-4982-88e6-5c7e83d41ff0)
+
+
 ## Principais funções do sistema:
 
 1. **Alocação de Disciplinas:**
