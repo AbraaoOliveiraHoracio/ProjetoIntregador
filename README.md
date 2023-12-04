@@ -1,30 +1,30 @@
 # Briefing Sistema de Alocamento:
 
 ## Dores identificadas: 
-    - Dificuldade de Acesso às Informações
-    - Os alunos e professores podem enfrentar dificuldades para acessar informações sobre seus horários de aulas 
-    - E alocação de salas.
+    - Dificuldade de Acesso às Informações.
+    - Os alunos e professores podem enfrentar dificuldades para acessar informações.  
+    - Sobre seus horários de aulas e alocação de salas.
 ## Objetivo:
-    - Desenvolver um sistema de agendamento de aulas que permita coordenadores 
-    - Professores e alunos acessar informações sobre horários de aulas, alocação de salas e laboratórios
+    - Desenvolver um sistema de agendamento de aulas que permita coordenadores.
+    - Professores e alunos acessar informações sobre horários de aulas, alocação de salas e laboratórios.
     - E detalhes das disciplinas e cursos.
 
 ## Atores do Sistema:
   ### Professor:
-      - Funções: Visualizar seus próprios horários e salas alocadas. 
-      - Faz login no sistema.  
+    - Funções: Visualizar seus próprios horários e salas alocadas. 
+    - Faz login no sistema.  
   ### Alunos:
-      - Funções: 
-      - Cadastrar-se no sistema.
-      - Visualizar horários de aulas relacionados ao seu curso.
+    - Funções: 
+    - Cadastrar-se no sistema.
+    - Visualizar horários de aulas relacionados ao seu curso.
   
   ### Restrições: 
-          - Não podem editar informações, apenas visualizar (tanto aluno, quanto professores).
+    - Não podem editar informações, apenas visualizar (tanto aluno, quanto professores).
 
   ### Coordenadores:
-        - Alocar disciplinas a professores, salas e laboratórios.
-        - Visualizar qual professor está alocado em uma sala ou laboratório.
-        - Cadastrar professores e cursos no sistema.
+    - Alocar disciplinas a professores, salas e laboratórios.
+    - Visualizar qual professor está alocado em uma sala ou laboratório.
+    - Cadastrar professores e cursos no sistema.
 
 
 ## Caso De Uso
@@ -60,8 +60,8 @@
    - Coordenadores podem alocar salas e laboratórios para disciplinas específicas.
 
 4. **Históricos passados:**
-   - Mantém um registro de todas as mudanças feitas nos horários para referência futura.
-      *Exemplo: em 2024, será possivel visualizar histórico do ano de 2023. 
+   - Mantém um registro de todas as mudanças feitas nos horários para referência futura.                                           
+   - **Exemplo:** em 2024, será possivel visualizar histórico do ano de 2023. 
 
 5. **Cadastro de Usuários:**
    - Permite que coordenador cadastre professores.
@@ -75,9 +75,9 @@
 
 ## Observações: 
 
-  - Cada disciplina pode alocar 1 sala e 1 laboratório.
-  - No sistema não será possível reservar uma sala/laboratório quando estiver ocupado.
-  - Juntar apenas disciplina com sala. 
+    - Cada disciplina pode alocar 1 sala e 1 laboratório.
+    - No sistema não será possível reservar uma sala/laboratório quando estiver ocupado.
+    - Juntar apenas disciplina com sala. 
 
 ## Protótipo de nosso projeto
     - https://www.figma.com/file/fZJ5PUqW5jFBTOpXC2aEOo/Trabalho-de-PI?type=design&node-id=0%3A1&mode=design&t=HoMrfE9NK7ys8yTh-1
