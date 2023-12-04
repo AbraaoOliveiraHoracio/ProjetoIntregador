@@ -1,9 +1,12 @@
 # Briefing Sistema de Alocamento:
 
-## Dores identificadas 
-    - Dificuldade de Acesso às Informações: Os alunos e professores podem enfrentar dificuldades para acessar informações sobre seus horários de aulas e alocação de salas.
+## Dores identificadas: 
+    - Dificuldade de Acesso às Informações:
+    - Os alunos e professores podem enfrentar dificuldades para acessar informações sobre seus horários de aulas e alocação de salas.
 ## Objetivo:
- -Desenvolver um sistema de agendamento de aulas que permita coordenadores, professores e alunos acessar informações sobre horários de aulas, alocação de salas e laboratórios, e detalhes das disciplinas e cursos.
+    - Desenvolver um sistema de agendamento de aulas que permita coordenadores 
+    - Professores e alunos acessar informações sobre horários de aulas, alocação de salas e laboratórios
+    - E detalhes das disciplinas e cursos.
 
 ## Atores do Sistema:
   ### Professor:
@@ -38,7 +41,7 @@
 
 
  ## Diagrama UML
-
+  
  ![image](https://github.com/AbraaoOliveiraHoracio/ProjetoIntregador/assets/127244271/03d5da85-97c4-42b2-b62c-4a23ef4c61f6)
 
 
